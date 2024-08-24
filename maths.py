@@ -15,6 +15,9 @@ def subtraction(x,y):
 def power(x,y):
     return Math.pow(x,y)
 
+def modulus(x,y):
+    return x%y
+
 
 # multiplication(10,3)
 # addition(7,2)
