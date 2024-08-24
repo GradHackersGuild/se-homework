@@ -10,5 +10,5 @@ def test_multiply():
     assert multiply(4,1) == 4
 
 def test_divide():
-    assert divide(4,1) == 0
+    assert divide(4,1) == 4
 
