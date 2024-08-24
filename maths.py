@@ -1,3 +1,5 @@
+import math as Math
+
 def division(x,y):
     return x/y
 
@@ -10,6 +12,8 @@ def addition(x,y):
 def subtraction(x,y):
     return x-y
 
+def power(x,y):
+    return Math.pow(x,y)
 
 
 # multiplication(10,3)
