@@ -6,3 +6,7 @@ def test_addition():
 
 def test_multiplication():
     assert OPs.multiplication(6,6) == 36
+
+#pytest==8.3.2
+# pytest-cov==5.0.0
+#coverage==7.6.1
